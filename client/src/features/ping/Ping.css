@@ -1,0 +1,13 @@
+.ping-text {
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 8px;
+}
+
+.ping-error {
+    color: red;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 8px;
+}
